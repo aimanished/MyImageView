@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         image2 = (ImageView)findViewById(R.id.imageView2);
         image2.setImageResource(R.drawable.day2);
-        
+
     }
 }
